@@ -1,0 +1,9 @@
+.env
+*.log
+*.conf
+.vscode
+dbt/dbt-env/
+airflow/dags/__pycache__
+dbt/logs/
+airflow/logs/
+airflow/extraction/tmp
